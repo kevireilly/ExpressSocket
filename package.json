@@ -1,0 +1,12 @@
+{
+  "name": "ExpressSocket",
+  "version": "0.0.1",
+  "description": "Simple Express 4.x and Socket.io 1.x example",
+  "main": "index.js",
+  "author": "Kevin Reilly <kevin@vishun.net>",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.9.5",
+    "socket.io": "^1.1.0"
+  }
+}
